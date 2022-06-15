@@ -1,0 +1,1 @@
+$conex = mysqli_connect("162.55.82.38","pacgrafi_registro","registro123*,","pacgrafi_registro");
